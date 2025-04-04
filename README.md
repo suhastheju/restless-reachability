@@ -1,4 +1,4 @@
-# Temporal patterns
+# Restless reachability problems in temporal graphs
 
 ## Overview
 This software repository contains an experimental software implementation of algorithms for solving a set of `Restless reachability problems in temporal graphs`. The software is written in C programming language.
